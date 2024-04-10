@@ -1,0 +1,142 @@
+
+.maincont{
+  background-color:#A5DD9B;
+}
+.menubg{
+  background-color:#96d18b ;
+  border-radius: 20px;
+}
+.container{
+  background-color:#96d18b ;
+}
+.navbar{
+  width:100%;
+  background-color:#A5DD9B;
+}
+
+#pic{
+  border-radius:20px;
+}
+
+.imgbg{
+  background-color: #C5EBAA;
+}
+
+.resbg{
+  width:100%;
+  background-color:#A5DD9B;
+}
+
+.fw{
+  margin-top: 20px;
+  padding-top: 10px;
+  text-align: left;
+}
+
+.box{
+  border-radius: 20px;
+}
+
+p.fw{
+  font-family:sans-serif;
+}
+
+div>.leftcol{
+  
+  background-color:#A5DD9B;
+}
+
+div>.leftcont{
+  background-color:#C5EBAA;
+}
+.card-body{
+  background: #C5EBAA;
+}
+p.card-text{
+  text-align: left;
+  padding-top: 10px;
+}
+
+.icons{
+  padding: 10px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #F6F193;
+
+}
+.three-box{
+  border-radius: 20px;
+  background: #A5DD9B;
+  
+
+}
+
+.projectbg{
+  padding: 0px;
+  background-color: #C5EBAA;
+}
+.project-assignment{
+  margin-top:2%;
+  
+}
+
+ .images{
+  width: 100%;
+ }
+
+.cols{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+p.formhead{
+  font-size: 30px;
+  
+}
+
+.container{
+  border-radius: 20px;
+}
+.maincont{
+  background-color: #A5DD9B;
+}
+.row{
+  border-radius: 20px;
+}
+.form-label{
+  font-weight:bold;
+}
+.foter{
+  margin-top: 2px;
+  background: #C5EBAA;
+}
+.s-media{
+  width: 3rem;
+  color: orange;
+}
+
+.icon1{
+  width: 3rem;
+  color: rgb(25, 108, 218);
+}
+.icon2{
+  width: 3rem;
+  color: green;
+}
+.icon3{
+  width: 3rem;
+  color:rgba(0, 54, 247, 0.837);
+}
+.icon4{
+  width: 3rem;
+  color:green;
+}
+.icon5{
+  width: 3rem;
+  color:green;
+}
+.sociallink{
+  text-decoration: none;
+}
